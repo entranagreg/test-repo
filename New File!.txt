@@ -1,0 +1,7 @@
+Github will automatically find your changes and put them into the Github Desktop window.
+
+
+Notice how I just added a new line?
+
+
+Mep derp merp
